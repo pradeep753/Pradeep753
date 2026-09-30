@@ -4,19 +4,19 @@
 <!--                 PRADEEP // NEXUS 01                       -->
 <!-- ╚══════════════════════════════════════════════════════════╝ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030014,20:10002B,45:4C00FF,70:008CFF,100:030014&height=300&section=header&text=PRADEEP&fontSize=88&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=NEXUS%20DEVELOPER%20%2F%2F%20CSE%20%2F%2F%20DIGITAL%20ARCHITECT&descAlignY=62&descSize=17"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,20:05000F,45:16002F,70:24005C,100:000000&height=300&section=header&text=PRADEEP&fontSize=88&fontColor=EDE9FF&animation=fadeIn&fontAlignY=35&desc=NEXUS%20DEVELOPER%20%2F%2F%20CSE%20%2F%2F%20DIGITAL%20ARCHITECT&descAlignY=62&descSize=17"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2200&pause=650&color=00E5FF&center=true&vCenter=true&width=950&lines=%3E+BOOTING+PRADEEP.NEXUS...;%3E+IDENTITY+VERIFIED+%E2%9C%93;%3E+WELCOME+TO+THE+DEVELOPER+CORE+%F0%9F%92%BB;%3E+WEB+%2B+SOFTWARE+%2B+UI%2FUX;%3E+BUILDING+THE+FUTURE+THROUGH+CODE+%F0%9F%9A%80;%3E+SYSTEM+STATUS%3A+ONLINE+%E2%9C%A8"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2200&pause=650&color=8B5CFF&center=true&vCenter=true&width=950&lines=%3E+BOOTING+PRADEEP.NEXUS...;%3E+IDENTITY+VERIFIED+%E2%9C%93;%3E+WELCOME+TO+THE+DEVELOPER+CORE+%F0%9F%92%BB;%3E+WEB+%2B+SOFTWARE+%2B+UI%2FUX;%3E+BUILDING+THE+FUTURE+THROUGH+CODE+%F0%9F%9A%80;%3E+SYSTEM+STATUS%3A+ONLINE+%E2%9C%A8"/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=pradeep753&label=NEXUS+VISITORS&color=7B2CFF&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=pradeep753&label=NEXUS+VISITORS&color=5B21B6&style=for-the-badge"/>
 
 &nbsp;
 
-<img src="https://img.shields.io/github/followers/pradeep753?label=NETWORK&style=for-the-badge&color=00D9FF&labelColor=050014"/>
+<img src="https://img.shields.io/github/followers/pradeep753?label=NETWORK&style=for-the-badge&color=7C3AED&labelColor=020205"/>
 
 </div>
 
@@ -34,9 +34,9 @@
 
 <br><br>
 
-<img src="https://img.shields.io/badge/BUILD_MODE-ACTIVE-00E5FF?style=for-the-badge&labelColor=060014"/>
-<img src="https://img.shields.io/badge/CREATIVE_MODE-ONLINE-9B5CFF?style=for-the-badge&labelColor=060014"/>
-<img src="https://img.shields.io/badge/LEARNING_MODE-ENABLED-FF4ECD?style=for-the-badge&labelColor=060014"/>
+<img src="https://img.shields.io/badge/BUILD_MODE-ACTIVE-8B5CF6?style=for-the-badge&labelColor=020205"/>
+<img src="https://img.shields.io/badge/CREATIVE_MODE-ONLINE-6D28D9?style=for-the-badge&labelColor=020205"/>
+<img src="https://img.shields.io/badge/LEARNING_MODE-ENABLED-4C1D95?style=for-the-badge&labelColor=020205"/>
 
 </div>
 
@@ -77,15 +77,15 @@ My main playground is **Web Development**, but I'm also exploring backend engine
 
 <br><br>
 
-<img src="https://img.shields.io/badge/ROLE-DEVELOPER-00E5FF?style=for-the-badge&labelColor=080014"/>
+<img src="https://img.shields.io/badge/ROLE-DEVELOPER-8B5CF6?style=for-the-badge&labelColor=020205"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/CLASS-B.TECH_CSE-7B2CFF?style=for-the-badge&labelColor=080014"/>
+<img src="https://img.shields.io/badge/CLASS-B.TECH_CSE-6D28D9?style=for-the-badge&labelColor=020205"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/STATUS-BUILDING-FF4ECD?style=for-the-badge&labelColor=080014"/>
+<img src="https://img.shields.io/badge/STATUS-BUILDING-4C1D95?style=for-the-badge&labelColor=020205"/>
 
 </td>
 
@@ -106,10 +106,10 @@ My main playground is **Web Development**, but I'm also exploring backend engine
 
 <br><br>
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-9B2CFF?style=for-the-badge&logo=html5&logoColor=FFFFFF&labelColor=08020F"/>
+<img src="https://img.shields.io/badge/CSS3-2563EB?style=for-the-badge&logo=css3&logoColor=FFFFFF&labelColor=050817"/>
+<img src="https://img.shields.io/badge/JavaScript-7C5C00?style=for-the-badge&logo=javascript&logoColor=FFFFFF&labelColor=08070A"/>
+<img src="https://img.shields.io/badge/React-0891B2?style=for-the-badge&logo=react&logoColor=FFFFFF&labelColor=020A0D"/>
 
 <br><br><br>
 
@@ -121,10 +121,10 @@ My main playground is **Web Development**, but I'm also exploring backend engine
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-FFFFFF?style=for-the-badge&logo=express&logoColor=black"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_API-7B2CFF?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-166534?style=for-the-badge&logo=node.js&logoColor=FFFFFF&labelColor=020805"/>
+<img src="https://img.shields.io/badge/Express.js-3F3F46?style=for-the-badge&logo=express&logoColor=FFFFFF&labelColor=020205"/>
+<img src="https://img.shields.io/badge/MongoDB-166534?style=for-the-badge&logo=mongodb&logoColor=FFFFFF&labelColor=020805"/>
+<img src="https://img.shields.io/badge/REST_API-6D28D9?style=for-the-badge&logoColor=FFFFFF&labelColor=020205"/>
 
 <br><br><br>
 
@@ -136,8 +136,8 @@ My main playground is **Web Development**, but I'm also exploring backend engine
 
 <br><br>
 
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-164E63?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF&labelColor=020609"/>
+<img src="https://img.shields.io/badge/Python-1E40AF?style=for-the-badge&logo=python&logoColor=FFFFFF&labelColor=020617"/>
 
 <br><br><br>
 
@@ -207,7 +207,7 @@ UX
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2300&pause=800&color=9B5CFF&center=true&vCenter=true&width=800&lines=MISSION+CONTROL+%2F%2F+ONLINE;UPGRADING+SKILLS...;BUILDING+REAL+WORLD+PROJECTS...;ENTERING+FULL+STACK+MODE..."/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2300&pause=800&color=7C3AED&center=true&vCenter=true&width=800&lines=MISSION+CONTROL+%2F%2F+ONLINE;UPGRADING+SKILLS...;BUILDING+REAL+WORLD+PROJECTS...;ENTERING+FULL+STACK+MODE..."/>
 
 </div>
 
@@ -247,6 +247,8 @@ UX
 ---
 
 # 🛰️ `SYSTEM // TERMINAL`
+
+<div align="center">
 
 ```text
 ╭──────────────────────────────────────────────────────────╮
