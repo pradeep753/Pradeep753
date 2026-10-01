@@ -370,7 +370,7 @@ DATA REST DATABASE
 </div>
 
 <div align="center">
-
+<br>
 
 ╔═══ ◉ DEVELOPER MINDSET ◉ ═══╗
 
