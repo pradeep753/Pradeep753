@@ -373,7 +373,7 @@ DATA REST DATABASE
 <br>
 ╔═══ ◉ DEVELOPER MINDSET ◉ ═══╗
 
-<br>
+
 
 <img src="https://img.shields.io/badge/LEARN-00D9FF?style=for-the-badge&labelColor=050014"/>
 <img src="https://img.shields.io/badge/BUILD-7F5CFF?style=for-the-badge&labelColor=050014"/>
@@ -382,7 +382,7 @@ DATA REST DATABASE
 <img src="https://img.shields.io/badge/IMPROVE-00D9FF?style=for-the-badge&labelColor=050014"/>
 <img src="https://img.shields.io/badge/REPEAT-7F5CFF?style=for-the-badge&labelColor=050014"/>
 
-<br>
+<br><br>
 
 LEARN → BUILD → BREAK → DEBUG → IMPROVE → REPEAT
 
