@@ -371,6 +371,7 @@ DATA REST DATABASE
 
 <div align="center">
 
+
 ╔═══ ◉ DEVELOPER MINDSET ◉ ═══╗
 
 <br>
