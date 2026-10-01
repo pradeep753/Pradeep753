@@ -289,7 +289,7 @@ DATA REST DATABASE
 
 ╔═══ 🐍 CONTRIBUTION SNAKE 🐍 ═══╗
 
-<br><br>
+<br>
 
 <img src="https://profile-readme-generator.com/assets/snake.svg" width="95%" alt="GitHub Contribution Snake"/>
 
@@ -371,7 +371,6 @@ DATA REST DATABASE
 </div>
 
 <div align="center">
-<br><br>
 <br>
 ╔═══ ◉ DEVELOPER MINDSET ◉ ═══╗
 
@@ -389,7 +388,7 @@ DATA REST DATABASE
 LEARN → BUILD → BREAK → DEBUG → IMPROVE → REPEAT
 
 </div>
-<br><br>
+<br>
 
 <div align="center">
 
@@ -401,7 +400,7 @@ LEARN → BUILD → BREAK → DEBUG → IMPROVE → REPEAT
 <img src="https://img.shields.io/badge/GITHUB-FFFFFF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
-<br><br>
+<br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2200&pause=700&color=7F5CFF&center=true&vCenter=true&width=700&lines=THANKS+FOR+VISITING+MY+PROFILE+%F0%9F%9A%80;KEEP+BUILDING.;KEEP+LEARNING.;KEEP+CREATING."/>
 
