@@ -289,7 +289,7 @@ DATA REST DATABASE
 
 ╔═══ 🐍 CONTRIBUTION SNAKE 🐍 ═══╗
 
-<br>
+
 
 <img src="https://profile-readme-generator.com/assets/snake.svg" width="95%" alt="GitHub Contribution Snake"/>
 
@@ -363,7 +363,7 @@ DATA REST DATABASE
 
 ╔═══ ◈ CURRENTLY LEARNING ◈ ═══╗
 
-<br>
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=1800&pause=650&color=00D9FF&center=true&vCenter=true&width=750&lines=+React;Node.js+%26+Express;REST+API+Architecture;Data+Structures+%26+Algorithms;Modern+UI%2FUX;Full+Stack+Development;Building+Real+World+Projects"/>
 
