@@ -64,9 +64,9 @@ I enjoy working where:
                CODE
                 │
                 ▼
-        ┌─────────────┐
-        │    DESIGN     │
-        └──────┬──────┘
+       ┌─────────────┐
+       │    DESIGN   │
+       └──────┬──────┘
                 │
                 ▼    
             TECHNOLOGY
