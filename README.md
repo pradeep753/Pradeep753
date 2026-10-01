@@ -46,7 +46,7 @@
 <div align="center">
 
 ╔═══ ◉ PRADEEP // PROFILE ═══╗
-<br>
+<br><br>
 </div>
 
 <table>
@@ -194,7 +194,7 @@ I enjoy working where:
 <br><br><br>
 
 ╔═══ ◉ WHAT I'M BUILDING ◉ ═══╗
-<br>
+<br><br>
 
 </div>
 
@@ -289,7 +289,7 @@ DATA REST DATABASE
 
 ╔═══ 🐍 CONTRIBUTION SNAKE 🐍 ═══╗
 
-<br>
+<br><br>
 
 <img src="https://profile-readme-generator.com/assets/snake.svg" width="95%" alt="GitHub Contribution Snake"/>
 
@@ -301,8 +301,8 @@ DATA REST DATABASE
 <div align="center">
 <br><br><br>
 ╔═══ ◉ DEVELOPER TERMINAL ◉ ═══╗
+<br><br>
 <br>
-
 <pre>
 ┌──────────────────────────────────────────────────────────────┐
 │                                                                         │
