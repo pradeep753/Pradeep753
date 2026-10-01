@@ -293,16 +293,15 @@ DATA REST DATABASE
 
 <img src="https://profile-readme-generator.com/assets/snake.svg" width="95%" alt="GitHub Contribution Snake"/>
 
-<br><br>
+<br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=600&color=FF4ECD&center=true&vCenter=true&width=600&lines=EAT+%E2%80%A2+CODE+%E2%80%A2+COMMIT+%E2%80%A2+REPEAT;KEEP+CODING+%F0%9F%90%8D;KEEP+BUILDING+%F0%9F%9A%80"/>
 
 </div>
 <div align="center">
-<br><br><br>
+<br><br>
 ╔═══ ◉ DEVELOPER TERMINAL ◉ ═══╗
 <br><br>
-<br>
 <pre>
 ┌──────────────────────────────────────────────────────────────┐
 │                                                                         │
@@ -359,7 +358,7 @@ DATA REST DATABASE
 └──────────────────────────────────────────────────┘
 </pre>
 </div>
-<br><br><br>
+<br><br>
 <div align="center">
 
 ╔═══ ◈ CURRENTLY LEARNING ◈ ═══╗
@@ -374,7 +373,7 @@ DATA REST DATABASE
 <br>
 ╔═══ ◉ DEVELOPER MINDSET ◉ ═══╗
 
-<br>
+<br><br>
 
 <img src="https://img.shields.io/badge/LEARN-00D9FF?style=for-the-badge&labelColor=050014"/>
 <img src="https://img.shields.io/badge/BUILD-7F5CFF?style=for-the-badge&labelColor=050014"/>
