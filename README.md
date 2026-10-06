@@ -251,6 +251,7 @@ DATA REST DATABASE
 ╔═══ ◈ GITHUB ANALYTICS ◈ ═══╗
 
 <br>
+<img src="https://github-readme-stats.vercel.app/api?username=pradeep753&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=050014&title_color=00D9FF&text_color=FFFFFF&icon_color=7F5CFF&border_radius=15&custom_title=Pradeep's%20GitHub%20Stats" width="49%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeep753&layout=compact&hide_border=true&langs_count=8&bg_color=050014&title_color=00D9FF&text_color=FFFFFF&border_radius=15&custom_title=Most%20Used%20Languages" width="42%"/>
 
