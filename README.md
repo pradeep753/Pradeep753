@@ -279,7 +279,7 @@ DATA REST DATABASE
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pradeep753&theme=tokyonight" width="46%"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pradeep753&theme=tokyonight&utcOffset=5.5" width="46%"/>
+
 
 </div>
 
